@@ -8,10 +8,10 @@ namespace WebApiPolizas.Data
 {
     public class PolizaData
     {
-        public static List<Poliza> Listar()
+        public static List<Poliza> Listar(Conexion conexionBd)
         {
             List<Poliza> listaPolizas = new List<Poliza>();
-            using (SqlConnection context = new SqlConnection(Conexion.rutaConexion))
+            using (SqlConnection context = new SqlConnection(conexionBd.ConexionBd()))
             {
                 SqlCommand cmd = new SqlCommand("pp_listar", context);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -66,10 +66,10 @@ namespace WebApiPolizas.Data
             }
         }
 
-        public static Poliza Obtener(int numeroPoliza)
+        public static Poliza Obtener(Conexion conexionBd, int numeroPoliza)
         {
             Poliza poliza = new Poliza();
-            using (SqlConnection context = new SqlConnection(Conexion.rutaConexion))
+            using (SqlConnection context = new SqlConnection(conexionBd.ConexionBd()))
             {
                 SqlCommand cmd = new SqlCommand("pp_obtener", context);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -127,9 +127,9 @@ namespace WebApiPolizas.Data
             }
         }
 
-        public static bool Registrar(Poliza poliza)
+        public static bool Registrar(Conexion conexionBd, Poliza poliza)
         {
-            using (SqlConnection context = new SqlConnection(Conexion.rutaConexion))
+            using (SqlConnection context = new SqlConnection(conexionBd.ConexionBd()))
             {
                 SqlCommand cmd = new SqlCommand("pp_registrar", context);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -160,9 +160,9 @@ namespace WebApiPolizas.Data
             }
         }
 
-        public static bool Modificar(Poliza poliza)
+        public static bool Modificar(Conexion conexionBd, Poliza poliza)
         {
-            using (SqlConnection context = new SqlConnection(Conexion.rutaConexion))
+            using (SqlConnection context = new SqlConnection(conexionBd.ConexionBd()))
             {
                 SqlCommand cmd = new SqlCommand("pp_modificar", context);
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -193,9 +193,9 @@ namespace WebApiPolizas.Data
             }
         }
 
-        public static bool Eliminar(int id)
+        public static bool Eliminar(Conexion conexionBd, int id)
         {
-            using (SqlConnection context = new SqlConnection(Conexion.rutaConexion))
+            using (SqlConnection context = new SqlConnection(conexionBd.ConexionBd()))
             {
                 SqlCommand cmd = new SqlCommand("pp_eliminar", context);
                 cmd.CommandType = CommandType.StoredProcedure;
