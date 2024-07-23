@@ -37,3 +37,4 @@ C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\netcoreapp3.1\W
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\netcoreapp3.1\WebApiPolizas.sourcelink.json
