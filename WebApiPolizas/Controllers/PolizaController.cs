@@ -1,5 +1,6 @@
-﻿using WebApiPolizas.Data;
-using WebApiPolizas.Models;
+﻿using Models;
+using BaseDatos;
+using DataObjects;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
@@ -9,41 +10,42 @@ namespace WebApiPolizas.Controllers
     [ApiController]
     public class PolizaController : ControllerBase
     {
-        private readonly Conexion conexionBd = new Conexion();
+        private readonly Conexion conexionBd = new();
+        private readonly PolizaDataObject polizaDO = new();
 
         // GET: api/<PolizaController>
         [HttpGet]
         public List<Poliza> Get()
         {
-            return PolizaData.Listar(conexionBd);
+            return polizaDO.Listar(conexionBd);
         }
 
         // GET api/<PolizaController>/5
         [HttpGet("{id}")]
         public Poliza Get(int id)
         {
-            return PolizaData.Obtener(conexionBd, id);
+            return polizaDO.Obtener(conexionBd, id);
         }
 
         // POST api/<PolizaController>
         [HttpPost]
         public bool Post([FromBody] Poliza poliza)
         {
-            return PolizaData.Registrar(conexionBd,poliza);
+            return polizaDO.Registrar(conexionBd,poliza);
         }
 
         // PUT api/<PolizaController>/5
         [HttpPut("{id}")]
         public bool Put(int id, [FromBody] Poliza poliza)
         {
-            return PolizaData.Modificar(conexionBd, poliza);
+            return polizaDO.Modificar(conexionBd, poliza);
         }
 
         // DELETE api/<PolizaController>/5
         [HttpDelete("{id}")]
         public bool Delete(int id)
         {
-            return PolizaData.Eliminar(conexionBd,id);
+            return polizaDO.Eliminar(conexionBd,id);
         }
     }
 }

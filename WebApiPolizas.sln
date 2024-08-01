@@ -1,9 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32413.511
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiPolizas", "WebApiPolizas\WebApiPolizas.csproj", "{8E81FC10-7B06-431A-8FA4-1F8931E29249}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4} = {1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4}
+		{75D64533-C099-4F0D-B97B-F3A542D262B9} = {75D64533-C099-4F0D-B97B-F3A542D262B9}
+		{FDA45F63-0BB9-4F80-94CB-8220B459E2B8} = {FDA45F63-0BB9-4F80-94CB-8220B459E2B8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjects", "DataObjects\DataObjects.csproj", "{1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDatos", "BaseDatos\BaseDatos.csproj", "{FDA45F63-0BB9-4F80-94CB-8220B459E2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{75D64533-C099-4F0D-B97B-F3A542D262B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +26,18 @@ Global
 		{8E81FC10-7B06-431A-8FA4-1F8931E29249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E81FC10-7B06-431A-8FA4-1F8931E29249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E81FC10-7B06-431A-8FA4-1F8931E29249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1524FFEF-4C79-40CB-8F1A-2CDD0F8E03F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA45F63-0BB9-4F80-94CB-8220B459E2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA45F63-0BB9-4F80-94CB-8220B459E2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA45F63-0BB9-4F80-94CB-8220B459E2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA45F63-0BB9-4F80-94CB-8220B459E2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75D64533-C099-4F0D-B97B-F3A542D262B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D64533-C099-4F0D-B97B-F3A542D262B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D64533-C099-4F0D-B97B-F3A542D262B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D64533-C099-4F0D-B97B-F3A542D262B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
