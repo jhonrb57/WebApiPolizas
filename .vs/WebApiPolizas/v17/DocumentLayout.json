@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\data\\polizadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,26 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\controllers\\polizacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\controllers\\polizacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|c:\\users\\jhon\\source\\repos\\webapipolizas\\webapipolizas\\controllers\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E81FC10-7B06-431A-8FA4-1F8931E29249}|WebApiPolizas\\WebApiPolizas.csproj|solutionrelative:webapipolizas\\controllers\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -85,21 +81,24 @@
               "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Startup.cs",
-              "RelativeDocumentMoniker": "WebApiPolizas\\Startup.cs",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Startup.cs",
-              "RelativeToolTip": "WebApiPolizas\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-26T18:49:39.165Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Poliza.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Models\\Poliza.cs",
+              "RelativeDocumentMoniker": "WebApiPolizas\\Models\\Poliza.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Models\\Poliza.cs",
+              "RelativeToolTip": "WebApiPolizas\\Models\\Poliza.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:20:59.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApiPolizas\\Properties\\launchSettings.json",
@@ -107,21 +106,19 @@
               "RelativeToolTip": "WebApiPolizas\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAMAAAAAAAAAAAAkwBYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2023-06-26T23:00:28.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-06-26T23:00:28.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\appsettings.json",
               "RelativeDocumentMoniker": "WebApiPolizas\\appsettings.json",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\appsettings.json",
               "RelativeToolTip": "WebApiPolizas\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T21:12:56.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T21:12:56.313Z"
             },
             {
               "$type": "Document",
@@ -131,14 +128,14 @@
               "RelativeDocumentMoniker": "WebApiPolizas\\Data\\PolizaData.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Data\\PolizaData.cs",
               "RelativeToolTip": "WebApiPolizas\\Data\\PolizaData.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAawAoAAAANAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2022-05-06T21:17:34.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Program.cs",
               "RelativeDocumentMoniker": "WebApiPolizas\\Program.cs",
@@ -150,53 +147,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Data\\Conexion.cs",
               "RelativeDocumentMoniker": "WebApiPolizas\\Data\\Conexion.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Data\\Conexion.cs",
               "RelativeToolTip": "WebApiPolizas\\Data\\Conexion.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:06:45.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T21:06:45.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PolizaController.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Controllers\\PolizaController.cs",
               "RelativeDocumentMoniker": "WebApiPolizas\\Controllers\\PolizaController.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Controllers\\PolizaController.cs",
               "RelativeToolTip": "WebApiPolizas\\Controllers\\PolizaController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAawAsAAAA7AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2022-05-06T21:20:13.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebApiPolizas\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebApiPolizas\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-26T23:17:28.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Controllers\\AplicationDBContext.cs",
-              "RelativeDocumentMoniker": "WebApiPolizas\\Controllers\\AplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\WebApiPolizas\\WebApiPolizas\\Controllers\\AplicationDBContext.cs",
-              "RelativeToolTip": "WebApiPolizas\\Controllers\\AplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-06-26T23:01:18.205Z"
+              "WhenOpened": "2022-05-06T21:20:13.45Z"
             }
           ]
         }
