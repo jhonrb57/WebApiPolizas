@@ -26,11 +26,6 @@ C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\WebApiPo
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\WebApiPolizas.sourcelink.json
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets\msbuild.WebApiPolizas.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiPolizas.props
-C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiPolizas.props
-C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiPolizas.props
-C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\scopedcss\bundle\WebApiPolizas.styles.css
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\WebApiPo.12EAFB76.Up2Date
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\WebApiPolizas.dll
@@ -45,3 +40,12 @@ C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\net8.0\BaseDato
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\net8.0\BaseDatos.dll.config
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\net8.0\DataObjects.pdb
 C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\net8.0\Models.pdb
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\bin\Debug\net8.0\WebApiPolizas.staticwebassets.endpoints.json
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\JHON\source\repos\WebApiPolizas\WebApiPolizas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiPolizas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b397e403215f102c0eafc30f63c9b7993d0e15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38e4bdb1fb2c731696b5e23900420f447794747f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiPolizas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiPolizas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

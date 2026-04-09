@@ -1,5 +1,3 @@
-C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
-C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\DataObjects.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\DataObjects.pdb
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\BaseDatos.dll
@@ -8,7 +6,6 @@ C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensi
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Configuration.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.ValueTuple.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Primitives.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.Memory.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -28,7 +25,6 @@ C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensi
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Configuration.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
-C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.ValueTuple.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.Primitives.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.Memory.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
@@ -41,6 +37,11 @@ C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Extensi
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.Text.Encodings.Web.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObje.1994DC2D.Up2Date
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObjects.dll
 C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\DataObjects.dll.config
+C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.IO.Pipelines.dll
+C:\Users\JHON\source\repos\WebApiPolizas\DataObjects\bin\Debug\System.IO.Pipelines.xml
